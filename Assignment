@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="计导大作业">
+    <meta name="author" content="电类2120 周洋">
+    <link rel="icon" href="灯泡.ico">
+
+    <title>计导大作业</title>
+
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <link href="starter-template.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">计导大作业</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#">周洋</a></li>
+            <li><a href="#">电类2120</a></li>
+            <li><a href="#">2213611606</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <div class="starter-template">
+        <h1>计算机学科各课程之间的关系图</h1>
+        <img src="课程关系图.png" width="1000" height="800">
+        <br></br>
+        <h1>计算机学科各课程有关参考资料</h1><br>
+        <a href="https://study.163.com/curricula/cs.htm?utm_source=study.163.com&utm_medium=web_bottombanner&utm_campaign=default" target="_blank">大学计算机专业-网易云课堂</a>
+        <br></br>
+        <a href="https://www.csdn.net/" target="_blank">CSDN</a>
+        <br></br>
+        <a href="https://docs.microsoft.com/zh-cn/" target="_blank">MSDN</a>
+        <br></br>
+        <a href="https://github.com/" target="_blank">Github</a>
+        <br></br>
+        <a href="https://www.runoob.com/" target="_blank">菜鸟教程</a>
+        <br></br>
+        <a href="https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html" target="_blank">清华大学计算机系课程攻略</a>
+        <br></br>
+        <a href="https://www.bilibili.com/" target="_blank">bilibili大学</a>
+        <br></br>
+        <h4>编程刷题</h4>
+        <a href="https://www.luogu.com.cn/" target="_blank">洛谷</a>
+        <br></br>
+        <a href="https://oj.xjtuicpc.com/" target="_blank">XJTUOJ</a>
+        <br></br>
+        <a href="https://leetcode-cn.com/" target="_blank">力扣</a>
+        <h1>我对计算机专业的认识</h1>
+        <p class="lead">“计算机科学与技术是一个计算机系统与网络兼顾的计算机学科宽口径专业，旨在培养具有良好的科学素养，具有自主学习意识和创新意识，科学型和工程型相结合的计算机专业高水平工程技术人才。”这是百度百科关于计算机专业的介绍。对于刚刚踏入大学校园的我而言，计算机科学与技术是一个神秘而充满魔力，令人心生向往的学科。
+          通过一个学期计算机科学技术导论的学习，我也对这个学科有了更深刻的认识。
+          “历史上还从来没有一项技术像计算机和互联网技术那样，仅70多年，影响和改变了人类社会的一切。”随着计算机技术的飞速发展，计算机逐渐渗透进了人类社会生活的方方面面：计算机+工业=工业智能化，计算机+教育=智慧教育，计算机+交替=智慧交通，计算机+医疗=智慧医疗，计算机+金融=智慧金融，计算机+税务=智慧税务……计算机日益广泛的应用领域无疑也提高了社会对于计算机专业人才的需求与要求。
+          计算机专业培养学生对于未来全球事务与国家发展的责任心和使命感，把握信息化过程的变化规律和发展趋势，认清计算机科学和技术对社会智能化、全球化进程的引领和推动作用，培养学生的使命意识、科学素养、计算思维和创新能力。作为学生的我们，应当珍惜光阴、把握当下，积极学习多方面的知识，把自己培养成“T”字形计算机人才，才能在将来为社会、为国家做出一名计算机科学技术的学生应有的贡献！</p>
+        <h1>我的学业规划</h1>
+        <p class="lead">大一尽力卷，争取大类前20%，分流到自动化或者计算机，假期准备建模和数学竞赛<br>大二争取前10%，自学一些感兴趣的东西<br>大三大四就太远了，以后再说吧(doge)</p>
+      </div>
+
+    </div>
+  </body>
+</html>
